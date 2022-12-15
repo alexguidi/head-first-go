@@ -1,0 +1,3 @@
+float64(price) * taxRate
+float64(price) + tax
+total <= float64(availableFunds)

@@ -1,0 +1,9 @@
+make 
+[]
+3
+[0]
+i
+number
+[]
+{"a", "b", "c"}
+letter

@@ -1,0 +1,5 @@
+type Vehicle interface{
+    Accelerate()
+    Brake()
+    Steer(string)
+}

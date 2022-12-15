@@ -1,0 +1,3 @@
+fmt.Println(d) escopo do primeiro if true
+fmt.Println(c) escopo do main
+fmt.Println(d) escopo do main

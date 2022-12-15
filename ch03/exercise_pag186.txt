@@ -1,0 +1,7 @@
+6
+false
+$$$$
+10
+30
+true
+hahaha

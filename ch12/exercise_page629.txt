@@ -1,0 +1,4 @@
+Opening refrigerator
+Closing refrigerator
+panic: refrigerator is empty
+snack()

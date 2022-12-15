@@ -1,0 +1,6 @@
+func
+r.Open()
+defer r.Close()
+if find
+return nil
+}

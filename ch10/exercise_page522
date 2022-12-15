@@ -1,0 +1,16 @@
+latitude
+longitude
+Latitude float64
+Longitude float64
+error
+errors.New
+nil
+error
+errors.New
+nil
+
+err
+nil
+nil
+Latitude
+Longitude
